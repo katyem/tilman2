@@ -1,0 +1,24 @@
+[
+    {
+        "school":"[University of Southern Mississippi](https://www.usm.edu/)",
+        "degree":"Ph.D.",
+        "major":"Psychology with an emphasis in I-O",
+        "notes":"![](/img/usm.jpg)",
+        "range":""
+    },
+
+    {
+        "school":"[University of Southern Mississippi](https://www.usm.edu/)",
+        "degree":"M.S.",
+        "major":"Counseling Psychology",
+        "notes":"![](/img/usm.jpg)",
+        "range":""
+    },
+    {
+        "school":"[LSU - Shreveport](http://www.lsus.edu/)",
+        "degree":"B.A.",
+        "major":"Psychology",
+        "notes":"![](/img/lsu-s.png)",
+        "range":""
+    }
+]
